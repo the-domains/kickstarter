@@ -1,0 +1,28 @@
+name: kickstarter
+favicon: null
+layout_spectrum: 0.7896374517586082
+typography_spectrum: 0.8602976307738572
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.30896876216866076
+  lightness: 0.8652479376178235
+  saturation: 0.5138830724172294
+  rhythmicContrast: 0.19213386462070048
+purpose: []
