@@ -2,6 +2,7 @@ name: kickstarter
 favicon: null
 layout_spectrum: 0.7896374517586082
 typography_spectrum: 0.8602976307738572
+title: Help Us Kickstarter
 cta:
   domain: null
   bucket: null
